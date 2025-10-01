@@ -1,0 +1,24 @@
+# Task-Manager-Application-
+
+
+Instructions:-
+
+
+# To install node depencies- npm install
+
+# To start the react server- npm run dev
+
+# To start Backend server- npm start
+
+
+# cross check is script is same or not in backend package.json 
+->*/{
+  "type": "module",
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"/*
