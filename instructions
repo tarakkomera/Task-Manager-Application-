@@ -10,6 +10,7 @@ Instructions:-
 
 # To start Backend server- npm start
 
+# To install Express and Css - npm install express mongoose cors bootstrap
 
 # cross check is script is same or not in backend package.json 
 ->*/{
